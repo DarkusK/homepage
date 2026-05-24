@@ -1,2 +1,5 @@
-# homepage
-My first personal website. After all, it is just a résumé.
+# Resume
+
+![Resume preview](assets/resume-preview.png)
+
+Live version: https://darkusk.github.io/homepage/
